@@ -2,6 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+  padding-top: 9px;
 }
 
 .headerlink {
@@ -45,8 +46,4 @@ p {
 
 body {
     margin: 0;
-}
-
-.enroll {
-  color: aqua;
 }
